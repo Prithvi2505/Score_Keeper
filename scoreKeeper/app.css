@@ -1,0 +1,40 @@
+section {
+    padding: 10px;
+    align-items: center;
+    margin-left: 40%;
+    width: 400px;
+}
+
+#Image {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-bottom: 2px;
+}
+
+#Content {
+    display: flex;
+    align-items: flex-start;
+    font-size: 30;
+    color: rgb(13, 106, 188);
+    border: 1px solid darkgray;
+    border-radius: 10;
+    margin-bottom: 2px;
+}
+
+#score {
+    border: 1px solid darkgray;
+    border-radius: 10;
+    margin-bottom: 2px;
+    padding: 2px;
+}
+
+#button {
+    border: 1px solid darkgray;
+    border-radius: 10;
+    padding: 2px;
+}
+
+button {
+    margin-right: 2px;
+}
